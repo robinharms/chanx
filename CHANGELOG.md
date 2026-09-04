@@ -1,3 +1,9 @@
+## v2.10.1 (2026-09-04)
+
+### Fix
+
+- **asyncapi**: drop non-message arms from union reply types
+
 ## v2.10.0 (2026-08-12)
 
 ### Feat
